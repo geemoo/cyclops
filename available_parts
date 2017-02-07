@@ -1,0 +1,34 @@
+=== Amplifiers ===
+# NAME, P1DB, GAIN, PRICE, NOTES
+- HMC952ALP5GE, 34 dBm, 33 dB, $71.60
+- HMC487LP5E, 32 dBm, 22 dB, $162.06
+- AMMP-6408-BLKG, 29 dBm, 19 dB, $70.24
+- HMC996LP4E, 23 dBm, 18.5 dB, $34.09
+- HMC1082LP4E, 24 dBm, 22 dB, $52.24
+- MAAM-011101-TR1000, 14.08000, 18dBm, 16dB, $14.08
+- HMC788ALP2ETR, 18dBm, 12dB, $28.66
+- HMC788ALP2E, 18dBm, 12dB, $30.28
+- CMM0511-QT-0G0T, 11 dBm, 20 dB, $28.69
+
+=== Mixers ===
+# NAME, CONV LOSS, NEEDS_BALUN, NEEDS_CAPS, PRICE
+- HMC412BMS8GE, 9 dB, no, no, $22.85
+
+=== PLLs ===
+# NAME, Fmax, HAS_VCO, PRICE
+- ADF4159CCPZ, 13 GHz, NO, $22.50
+- ADF5000BCPZ, 18 GHz, NO, $25.74
+- HMC834LP6GE, 8.4 GHZ, YES, $30.97
+
+=== VCOs ===
+# NAME, Pnoise100, Pnoise1k, Pnoise100k, Pnoise1M, PRICE
+- HMC1162, NA, -60, -115, -135, $50.51
+- HMC1164, -25, -60, -115, -135, $50.51
+- many others @ ~$55.00
+
+=== IF Filters ===
+- many options at 433MHz
+
+=== Switches ===
+# name, insloss(dB), isolation(dB), max rfin(dBm), price
+HMC1118LP3DE, 1.3, 18, 25, $18.99
